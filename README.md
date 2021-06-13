@@ -1,0 +1,3 @@
+- Hi, I’m @Valiant-Frog
+- I’m interested in linux and python coding
+- I’m currently learning linux, python 
